@@ -1,20 +1,3 @@
-3주차 git
+# 2023_OSS
 
-이미지
-
-
-
-링크
-
-
-
-ProGIt 링크
-
-
-
-주요 git 명령어
-
-
-
-2주차 숙제 코드 블록
-
+[3주차강의](home/cjs/projects/2023_OSS/w3/README.md)
