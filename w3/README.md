@@ -10,7 +10,7 @@
 
 ##### Progit 링크
 
-[ProGit](https://github.com/progit)
+[ProGit](https://git-scm.com/book/en/v2)
 
 ##### 주요 Git명령어
 
