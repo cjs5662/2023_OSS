@@ -2,7 +2,7 @@
 
 ### 이미지
 
-![cm_2_3](https://user-images.githubusercontent.com/127291602/227786231-ba79e5f3-2310-4714-a7e5-4a4dd9051fed.jpg)
+width="200" ![cm_2_3](https://user-images.githubusercontent.com/127291602/227786231-ba79e5f3-2310-4714-a7e5-4a4dd9051fed.jpg)
 
 
 #### 링크
