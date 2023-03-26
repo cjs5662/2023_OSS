@@ -16,29 +16,29 @@
 
 
 ##### 2주차 숙제 코드블록
-#!/usr/bin/env bash
-echo "----------"
-echo "name :"
-echo "OOO"
-echo
-
-echo "----------"
-echo "student id :"
-echo "0000000000"
-
-file path= 'find /home/kau2/ -name w2_homework.txt 2> /dev/null'
-echo "----------"
-echo
-echo "file path :"
-$file_path
-echo
-
-line_num= 'wc -1 $file_path | cut -c 1 -'
-echo "----------"
-echo "line number :"
-echo $line_num
-echo
-
-echo "----------"
-echo "lask line :"
+#!/usr/bin/env bash   
+echo "----------"   
+echo "name :"   
+echo "OOO"   
+echo   
+   
+echo "----------"   
+echo "student id :"    
+echo "0000000000"   
+    
+file path= 'find /home/kau2/ -name w2_homework.txt 2> /dev/null'    
+echo "----------"    
+echo    
+echo "file path :"    
+$file_path    
+echo    
+    
+line_num= 'wc -1 $file_path | cut -c 1 -'    
+echo "----------"    
+echo "line number :"    
+echo $line_num    
+echo    
+    
+echo "----------"    
+echo "lask line :"    
 tail -n 1 $file_path
