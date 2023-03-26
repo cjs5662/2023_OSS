@@ -2,7 +2,7 @@
 
 ### 이미지
 
-![한국항공대학교 로고](https://github.com/cjs5662/2023_OSS/w3/blob/master/2023_OSS/w3/kau.jpg)
+![cm_2_3](https://user-images.githubusercontent.com/127291602/227786231-ba79e5f3-2310-4714-a7e5-4a4dd9051fed.jpg)
 
 
 #### 링크
